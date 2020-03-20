@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DotaMatch</string>
+    <string name="title_hello">Это приложение по поиску матчей</string>
+    <string name="title_input">Введите ID матча:</string>
+</resources>
